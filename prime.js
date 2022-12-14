@@ -1,5 +1,5 @@
-let count=3;
-for( i=0 ; i<=num ; i++){
+let count=0;
+for( i=1 ; i<=num ; i++){
     if(num%i==0){
         count++
     }
